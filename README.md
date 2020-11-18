@@ -10,6 +10,7 @@ I'm Anurag Singhania Machine Learning || Data Science || Deep Learning || Androi
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, C++, NLP, SPACY, JAVASCRIPT, DJANGO, FLASK, FLUTTER, ANDROID STUDIO, TENSORFLOW, SKLEARN, PANDAS, ETC..
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/itzanuragsinghania?tab=repositories)
 - 👯 Looking for an internship or opportunity.
+- ⚡️ My 1st Android App available on PlayStore. 👉 [here](https://play.google.com/store/apps/details?id=com.dingdonk.app)
 
 ### My GitHub Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzanuragsinghania) ![Github stats](https://github-readme-stats.vercel.app/api?username=itzanuragsinghania&show_icons=true)
@@ -38,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Road Map to ML
 - 📫 How to reach me: ... anuragsinghania235@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am an Otaku
+- ⚡ Fun fact: ... I am an Otaku and my ALIAS is " DracaryS "
 -->
