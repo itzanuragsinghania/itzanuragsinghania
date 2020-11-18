@@ -1,10 +1,10 @@
-
+### Hi there 👋
 
 <!--
 **itzanuragsinghania/itzanuragsinghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 
-### Hi there 👋
+
 I'm Anurag Singhania Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
 [![youtube badge](https://img.shields.io/badge/youtube-HimanshuTripathi-%23FF0000?style=flat&logo=youtube)](https://www.youtube.com/c/himanshutripathi)
 [![twitter badge](https://img.shields.io/badge/twitter-@iam_himanshu0-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iam_himanshu0)
