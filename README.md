@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Machine Learning Projects/ ML StartUps
 - 🤔 I’m looking for help with ... StartUps
 - 💬 Ask me about ... Road Map to ML
-- 📫 How to reach me: ... anuragsinghania235@gmail.com
+- 📫 How to reach me: ... [Gmail](anuragsinghania235@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Otaku and my ALIAS is " DracaryS "
 
