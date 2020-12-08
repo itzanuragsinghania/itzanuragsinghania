@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Road Map to ML
 - 📫 How to reach me: ... [Gmail](anuragsinghania235@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am an Otaku and my ALIAS is " DracaryS "
+- ⚡ Fun fact: ... I am an Otaku and my ALIAS is "DracaryS"
 
