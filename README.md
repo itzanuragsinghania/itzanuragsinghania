@@ -23,6 +23,9 @@ However, if you are using my project and happy with it or just want to encourage
 Giving proper credit when you use any of my Repo, linking back to it :D
 Starring and sharing the project 🚀
 
+<b><a href="https://www.paypal.com/paypalme/dracarysinc">DONATE HERE !</a></b>
+  (donations will be r pa paying for college)
+
 Thanks! ❤️
 
 
