@@ -23,12 +23,11 @@ However, if you are using my project and happy with it or just want to encourage
 Giving proper credit when you use any of my Repo, linking back to it :D
 Starring and sharing the project 🚀
 
-<b><a href="https://www.paypal.com/paypalme/dracarysinc">DONATE HERE !</a></b>
-  (donations will be used to pay for college)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/dracarysinc)
+
 
 Thanks! ❤️
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/dracarysinc)
 
 
 Here are some ideas to get you started:
