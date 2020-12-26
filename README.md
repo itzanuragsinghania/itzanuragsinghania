@@ -6,6 +6,7 @@ I'm Anurag Singhania Machine Learning || Data Science || Deep Learning || Androi
 [![dev.to badge](https://img.shields.io/badge/linkedin-itzanuragsinghania-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-singhania-39623217b/)
 [![twitter badge](https://img.shields.io/badge/instagram-@cursed_by_hatred-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cursed_by_hatred/)
 ![](https://komarev.com/ghpvc/?username=iamhimanshu0&color=brightgreen&style=flat)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.com/paypalme/dracarysinc)&nbsp;
 
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, NLP, SPACY,  DJANGO, FLASK, FLUTTER, ANDROID STUDIO, HEROKU, STREAMLIT, AMAZON SAGE MAKER, TENSORFLOW, SKLEARN, PANDAS, ETC..
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/itzanuragsinghania?tab=repositories)
