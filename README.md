@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Otaku and my ALIAS is "DracaryS"
 
+![Metrics](https://metrics.lecoq.io/itzanuragsinghania?template=classic&config.timezone=Asia%2FCalcutta)
