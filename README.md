@@ -25,7 +25,7 @@ Giving proper credit when you use any of my Repo, linking back to it :D
 Starring and sharing the project 🚀
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/dracarysinc)
-
+<a href="https://www.buymeacoffee.com/dracarysinc" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important"></a>
 
 Thanks! ❤️
 
