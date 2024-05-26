@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 
 ### Hi there 👋
-I'm [Anurag Singhania](https://itzanuragsinghania.github.io/) Currently a Salesforce Developer I also am quiet Proficient in Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
+I'm [Anurag Singhania](https://itzanuragsinghania.github.io/) Currently a Salesforce Developer. I also am quiet Proficient in Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-itzanuragsinghania-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-singhania-39623217b/)
 [![twitter badge](https://img.shields.io/badge/instagram-@cursed_by_hatred-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cursed_by_hatred/)
