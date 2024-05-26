@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 
 ### Hi there 👋
-I'm [Anurag Singhania](https://itzanuragsinghania.github.io/) Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
+I'm [Anurag Singhania](https://itzanuragsinghania.github.io/) Currently a Salesforce Developer I also am quiet Proficient in Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-itzanuragsinghania-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-singhania-39623217b/)
 [![twitter badge](https://img.shields.io/badge/instagram-@cursed_by_hatred-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cursed_by_hatred/)
@@ -10,7 +10,7 @@ I'm [Anurag Singhania](https://itzanuragsinghania.github.io/) Machine Learning |
 
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, NLP, SPACY,  DJANGO, FLASK, FLUTTER, ANDROID STUDIO, HEROKU, STREAMLIT, AMAZON SAGE MAKER, TENSORFLOW, SKLEARN, PANDAS, ETC..
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/itzanuragsinghania?tab=repositories)
-- 👯 Looking for an internship or opportunity.
+- 👯 Looking for an AI opportunity.
 - ⚡️ My 1st Android App available on PlayStore. 👉 [here](https://play.google.com/store/apps/details?id=com.dingdonk.app)
 
 ### My GitHub Status 
@@ -33,13 +33,13 @@ Thanks! ❤️
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... NLP Web App
+- 🔭 I’m currently working @ ... LTIMINDTREE as a SALESFORCE DEVELOPER
 - 🌱 I’m currently learning ... NLP
 - 👯 I’m looking to collaborate on ... Machine Learning Projects/ ML StartUps
 - 🤔 I’m looking for help with ... StartUps
 - 💬 Ask me about ... Road Map to ML
 - 📫 How to reach me: ... [Gmail](anuragsinghania235@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am an Otaku and my ALIAS is "DracaryS"
+- ⚡ Fun fact: ... I am an Otaku and my ALIAS is "b1aNK_"
 
 ![Metrics](https://metrics.lecoq.io/itzanuragsinghania?template=classic&config.timezone=Asia%2FCalcutta)
